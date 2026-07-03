@@ -1,5 +1,7 @@
 # Curso de Trading Algorítmico en Python — De Cero a Avanzado (6 Semanas)
 
+https://joelpasapera.github.io/Curso-de-Trading-Algor-tmico-en-Python/
+
 Programa práctico y sistemático para aprender a diseñar, probar y validar estrategias de trading con Python. El objetivo no es "predecir el mercado", sino construir un **proceso** que aumente las probabilidades a tu favor: señales cuantificables, costos realistas, gestión de riesgo y validación fuera de muestra.
 
 > **Descargo de responsabilidad:** material exclusivamente educativo. No constituye asesoramiento financiero ni de inversión. Operar en mercados implica riesgo real de pérdida de capital. Los resultados de un backtest no garantizan resultados futuros.
